@@ -1,0 +1,22 @@
+*{
+    margin: 1px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+.logo{
+    width: 50px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header > ul{
+    display: flex;
+    
+}
+.header >ul li{
+    list-style: none;
+    padding: 20px;
+    
+}
