@@ -28,12 +28,21 @@ const Nav=()=>{
     )
 }
 
+const Footer=()=>{
+    return(
+        <div>
+            <small>This is a footer</small>
+        </div>
+    )
+}
+
 export const Project=()=>{
     return(
         <div>
 
             <Header />
             <Nav />
+            <Footer />
         </div>
     )
 }
