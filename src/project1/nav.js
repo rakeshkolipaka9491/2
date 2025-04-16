@@ -1,7 +1,7 @@
-
+import "./project.css";
 export const Nav=()=>{
     return(
-        <div>
+        <div className="nav">
             <h1>Reasons I'm excited to learn React!</h1>
             <ol>
                 <li>React is an efficient, flexible and open source javascript framework library </li>
